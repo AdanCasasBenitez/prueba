@@ -7,14 +7,6 @@
   <title>Template de Prueba</title>
 </head>
 <body>
-    Estructura del template
-
-    Con cambios
-    
-    Cambio 2 desde local (Van 3 cambios)
-  
-    Cambio directo en github (Cambio 2)
-
-    
+    Cambio sólo desde local
 </body> 
 </html>
