@@ -11,10 +11,10 @@
 
     Con cambios
     
-    Cambio 2 desde local
+    Cambio 2 desde local (Van 3 cambios)
   
     Cambio directo en github
 
     
 </body> 
-</html>g
+</html>
