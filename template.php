@@ -8,5 +8,7 @@
 </head>
 <body>
     Cambio sólo desde local
+  
+  -- Modificado en repo --
 </body> 
 </html>
