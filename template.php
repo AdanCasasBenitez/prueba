@@ -10,8 +10,13 @@
     Estructura del template
 
     Con cambios
+<<<<<<< HEAD
 
 
     Cambio 2 desde local
+=======
+  
+  Cambio directo en github
+>>>>>>> 88bf373342cf12caf8bf3e9308899417c35d2a41
 </body> 
 </html>
