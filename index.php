@@ -7,7 +7,7 @@
   <title>Prueba</title>
 </head>
 <body>
-  <h1>Prueba</h1>
+  <h1>Acá va el titulo del sitio</h1>
   <table class="table table-striped table-responsive">
     <tr>
       <td>Nombre</td>
@@ -15,5 +15,6 @@
       <td>Acciones</td>
     </tr>
   </table>
+  
 </body>
 </html>
