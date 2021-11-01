@@ -10,5 +10,7 @@
     Cambio sólo desde local
 
     (Cambio de Adán en local)
+  
+  -- Modificado en repo --
 </body> 
 </html>
