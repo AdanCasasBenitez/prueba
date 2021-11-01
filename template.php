@@ -13,7 +13,7 @@
     
     Cambio 2 desde local (Van 3 cambios)
   
-    Cambio directo en github
+    Cambio directo en github (Cambio 2)
 
     
 </body> 
