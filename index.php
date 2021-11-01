@@ -8,5 +8,12 @@
 </head>
 <body>
   <h1>Prueba</h1>
+  <table class="table table-striped table-responsive">
+    <tr>
+      <td>Nombre</td>
+      <td>Correo</td>
+      <td>Acciones</td>
+    </tr>
+  </table>
 </body>
 </html>
