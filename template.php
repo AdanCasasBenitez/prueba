@@ -8,5 +8,7 @@
 </head>
 <body>
     Cambio sólo desde local
+
+    (Cambio de Adán en local)
 </body> 
 </html>
