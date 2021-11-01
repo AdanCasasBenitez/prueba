@@ -1,4 +1,3 @@
-Acá irá el template
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +7,8 @@ Acá irá el template
   <title>Template de Prueba</title>
 </head>
 <body>
-  
-</body>
+    Estructura del template
+
+    Con cambios
+</body> 
 </html>
