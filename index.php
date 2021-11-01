@@ -7,6 +7,6 @@
   <title>Prueba</title>
 </head>
 <body>
-  <h1>Prueba</h1>
+  <h1>Acá va el titulo del sitio</h1>
 </body>
 </html>
