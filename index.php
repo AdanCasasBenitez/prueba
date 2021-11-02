@@ -15,6 +15,5 @@
       <td>Acciones</td>
     </tr>
   </table>
-  
 </body>
 </html>
